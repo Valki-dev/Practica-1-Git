@@ -2,9 +2,9 @@ TEST CON PREGUNTAS (V/F) SOBRE GIT
 Instrucciones: Responder en el espacio entre los corchetes "[ ]" junto a cada pregunta, indicando si es verdadera (V) o falsa (F).
 
 PRIMERA PARTE
-6. En Git es posible descargarse un repositorio []
-7. Git es un apodo de GitHub []
-8. El historial de confirmación de Git se elimina automáticamente cada semana []
+6. En Git es posible descargarse un repositorio [V]
+7. Git es un apodo de GitHub [F]
+8. El historial de confirmación de Git se elimina automáticamente cada semana [F]
 
 
 SEGUNDA PARTE
