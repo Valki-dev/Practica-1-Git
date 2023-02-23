@@ -8,6 +8,6 @@ PRIMERA PARTE
 
 
 SEGUNDA PARTE
-9. En Git una rama es una versión separada del repositorio principal []
-10. Pull es una combinación de push y merge []
-11. Git es lo mismo que GitHub []
+9. En Git una rama es una versión separada del repositorio principal [V]
+10. Pull es una combinación de push y merge [F]
+11. Git es lo mismo que GitHub [F]
